@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saaba\\source\\repos\\SpecFlowProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC478861-E74A-4776-8EC2-3FD591EBEDE0}|SpecFlowProject\\SpecFlowProject.csproj|c:\\users\\saaba\\source\\repos\\specflowproject\\specflowproject\\features\\orangehrm.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FC478861-E74A-4776-8EC2-3FD591EBEDE0}|SpecFlowProject\\SpecFlowProject.csproj|solutionrelative:specflowproject\\features\\orangehrm.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC478861-E74A-4776-8EC2-3FD591EBEDE0}|SpecFlowProject\\SpecFlowProject.csproj|c:\\users\\saaba\\source\\repos\\specflowproject\\specflowproject\\stepdefinitions\\orangehrmfunctionalitystepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC478861-E74A-4776-8EC2-3FD591EBEDE0}|SpecFlowProject\\SpecFlowProject.csproj|solutionrelative:specflowproject\\stepdefinitions\\orangehrmfunctionalitystepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC478861-E74A-4776-8EC2-3FD591EBEDE0}|SpecFlowProject\\SpecFlowProject.csproj|c:\\users\\saaba\\source\\repos\\specflowproject\\specflowproject\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC478861-E74A-4776-8EC2-3FD591EBEDE0}|SpecFlowProject\\SpecFlowProject.csproj|solutionrelative:specflowproject\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC478861-E74A-4776-8EC2-3FD591EBEDE0}|SpecFlowProject\\SpecFlowProject.csproj|c:\\users\\saaba\\source\\repos\\specflowproject\\specflowproject\\features\\parabank.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FC478861-E74A-4776-8EC2-3FD591EBEDE0}|SpecFlowProject\\SpecFlowProject.csproj|solutionrelative:specflowproject\\features\\parabank.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC478861-E74A-4776-8EC2-3FD591EBEDE0}|SpecFlowProject\\SpecFlowProject.csproj|c:\\users\\saaba\\source\\repos\\specflowproject\\specflowproject\\stepdefinitions\\parabankregisterfunctionalitystepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC478861-E74A-4776-8EC2-3FD591EBEDE0}|SpecFlowProject\\SpecFlowProject.csproj|solutionrelative:specflowproject\\stepdefinitions\\parabankregisterfunctionalitystepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC478861-E74A-4776-8EC2-3FD591EBEDE0}|SpecFlowProject\\SpecFlowProject.csproj|c:\\users\\saaba\\source\\repos\\specflowproject\\specflowproject\\features\\testloginwithfeature.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FC478861-E74A-4776-8EC2-3FD591EBEDE0}|SpecFlowProject\\SpecFlowProject.csproj|solutionrelative:specflowproject\\features\\testloginwithfeature.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC478861-E74A-4776-8EC2-3FD591EBEDE0}|SpecFlowProject\\SpecFlowProject.csproj|c:\\users\\saaba\\source\\repos\\specflowproject\\specflowproject\\stepdefinitions\\testloginwithfeaturestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC478861-E74A-4776-8EC2-3FD591EBEDE0}|SpecFlowProject\\SpecFlowProject.csproj|solutionrelative:specflowproject\\stepdefinitions\\testloginwithfeaturestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC478861-E74A-4776-8EC2-3FD591EBEDE0}|SpecFlowProject\\SpecFlowProject.csproj|c:\\users\\saaba\\source\\repos\\specflowproject\\specflowproject\\features\\testfeature.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FC478861-E74A-4776-8EC2-3FD591EBEDE0}|SpecFlowProject\\SpecFlowProject.csproj|solutionrelative:specflowproject\\features\\testfeature.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC478861-E74A-4776-8EC2-3FD591EBEDE0}|SpecFlowProject\\SpecFlowProject.csproj|c:\\users\\saaba\\source\\repos\\specflowproject\\specflowproject\\stepdefinitions\\testloginfunctionalitystepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC478861-E74A-4776-8EC2-3FD591EBEDE0}|SpecFlowProject\\SpecFlowProject.csproj|solutionrelative:specflowproject\\stepdefinitions\\testloginfunctionalitystepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC478861-E74A-4776-8EC2-3FD591EBEDE0}|SpecFlowProject\\SpecFlowProject.csproj|c:\\users\\saaba\\source\\repos\\specflowproject\\specflowproject\\implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC478861-E74A-4776-8EC2-3FD591EBEDE0}|SpecFlowProject\\SpecFlowProject.csproj|solutionrelative:specflowproject\\implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrangeHRMFunctionalityStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\saaba\\source\\repos\\SpecFlowProject\\SpecFlowProject\\StepDefinitions\\OrangeHRMFunctionalityStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject\\StepDefinitions\\OrangeHRMFunctionalityStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\saaba\\source\\repos\\SpecFlowProject\\SpecFlowProject\\StepDefinitions\\OrangeHRMFunctionalityStepDefinitions.cs",
+              "RelativeToolTip": "SpecFlowProject\\StepDefinitions\\OrangeHRMFunctionalityStepDefinitions.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwEMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:26:03.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrangeHRM.feature",
+              "DocumentMoniker": "C:\\Users\\saaba\\source\\repos\\SpecFlowProject\\SpecFlowProject\\Features\\OrangeHRM.feature",
+              "RelativeDocumentMoniker": "SpecFlowProject\\Features\\OrangeHRM.feature",
+              "ToolTip": "C:\\Users\\saaba\\source\\repos\\SpecFlowProject\\SpecFlowProject\\Features\\OrangeHRM.feature",
+              "RelativeToolTip": "SpecFlowProject\\Features\\OrangeHRM.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-25T09:21:23.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Parabank.feature",
+              "DocumentMoniker": "C:\\Users\\saaba\\source\\repos\\SpecFlowProject\\SpecFlowProject\\Features\\Parabank.feature",
+              "RelativeDocumentMoniker": "SpecFlowProject\\Features\\Parabank.feature",
+              "ToolTip": "C:\\Users\\saaba\\source\\repos\\SpecFlowProject\\SpecFlowProject\\Features\\Parabank.feature",
+              "RelativeToolTip": "SpecFlowProject\\Features\\Parabank.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAGAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-24T12:12:19.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ParabankRegisterFunctionalityStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\saaba\\source\\repos\\SpecFlowProject\\SpecFlowProject\\StepDefinitions\\ParabankRegisterFunctionalityStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject\\StepDefinitions\\ParabankRegisterFunctionalityStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\saaba\\source\\repos\\SpecFlowProject\\SpecFlowProject\\StepDefinitions\\ParabankRegisterFunctionalityStepDefinitions.cs",
+              "RelativeToolTip": "SpecFlowProject\\StepDefinitions\\ParabankRegisterFunctionalityStepDefinitions.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAQwF8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:45:27.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hooks.cs",
+              "DocumentMoniker": "C:\\Users\\saaba\\source\\repos\\SpecFlowProject\\SpecFlowProject\\Hooks\\Hooks.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject\\Hooks\\Hooks.cs",
+              "ToolTip": "C:\\Users\\saaba\\source\\repos\\SpecFlowProject\\SpecFlowProject\\Hooks\\Hooks.cs",
+              "RelativeToolTip": "SpecFlowProject\\Hooks\\Hooks.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAYwBQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:09:32.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestLoginWithFeature.feature",
+              "DocumentMoniker": "C:\\Users\\saaba\\source\\repos\\SpecFlowProject\\SpecFlowProject\\Features\\TestLoginWithFeature.feature",
+              "RelativeDocumentMoniker": "SpecFlowProject\\Features\\TestLoginWithFeature.feature",
+              "ToolTip": "C:\\Users\\saaba\\source\\repos\\SpecFlowProject\\SpecFlowProject\\Features\\TestLoginWithFeature.feature",
+              "RelativeToolTip": "SpecFlowProject\\Features\\TestLoginWithFeature.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAYAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-24T16:32:47.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestLoginWithFeatureStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\saaba\\source\\repos\\SpecFlowProject\\SpecFlowProject\\StepDefinitions\\TestLoginWithFeatureStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject\\StepDefinitions\\TestLoginWithFeatureStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\saaba\\source\\repos\\SpecFlowProject\\SpecFlowProject\\StepDefinitions\\TestLoginWithFeatureStepDefinitions.cs",
+              "RelativeToolTip": "SpecFlowProject\\StepDefinitions\\TestLoginWithFeatureStepDefinitions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:18:04.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestFeature.feature",
+              "DocumentMoniker": "C:\\Users\\saaba\\source\\repos\\SpecFlowProject\\SpecFlowProject\\Features\\TestFeature.feature",
+              "RelativeDocumentMoniker": "SpecFlowProject\\Features\\TestFeature.feature",
+              "ToolTip": "C:\\Users\\saaba\\source\\repos\\SpecFlowProject\\SpecFlowProject\\Features\\TestFeature.feature",
+              "RelativeToolTip": "SpecFlowProject\\Features\\TestFeature.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-24T16:28:49.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestLoginFunctionalityStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\saaba\\source\\repos\\SpecFlowProject\\SpecFlowProject\\StepDefinitions\\TestLoginFunctionalityStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject\\StepDefinitions\\TestLoginFunctionalityStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\saaba\\source\\repos\\SpecFlowProject\\SpecFlowProject\\StepDefinitions\\TestLoginFunctionalityStepDefinitions.cs",
+              "RelativeToolTip": "SpecFlowProject\\StepDefinitions\\TestLoginFunctionalityStepDefinitions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:17:38.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ImplicitUsings.cs",
+              "DocumentMoniker": "C:\\Users\\saaba\\source\\repos\\SpecFlowProject\\SpecFlowProject\\ImplicitUsings.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject\\ImplicitUsings.cs",
+              "ToolTip": "C:\\Users\\saaba\\source\\repos\\SpecFlowProject\\SpecFlowProject\\ImplicitUsings.cs",
+              "RelativeToolTip": "SpecFlowProject\\ImplicitUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:49:49.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
